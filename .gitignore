@@ -1,3 +1,6 @@
 venv/
 .env
 __pycache__/
+orm_insert.py
+sqlalchemt_insert.py
+pipeline.py
